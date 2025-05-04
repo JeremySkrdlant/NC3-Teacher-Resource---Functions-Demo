@@ -5,5 +5,5 @@ declarations in a protocol so they will not have to worry about implementing the
 
 ## Resources 
 * Xcode Project - Download the Zip of this Repository and click on the XcodeProject File. 
-* Keynote 
+* Keynote - This is in the zip file you downloaded. 
 * Video - [https://youtu.be/Exva37xL9JE](https://youtu.be/Exva37xL9JE)
