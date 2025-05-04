@@ -4,6 +4,6 @@ This lesson goes over the structures of a function in the Swift Language.  It ha
 declarations in a protocol so they will not have to worry about implementing the entire function getting it to work.  
 
 ## Resources 
-Xcode Project - Download the Zip of this Repository and click on the XcodeProject File. 
-Keynote 
-Video - Coming Soon 
+* Xcode Project - Download the Zip of this Repository and click on the XcodeProject File. 
+* Keynote 
+* Video - Coming Soon 
